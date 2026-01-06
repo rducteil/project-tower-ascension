@@ -58,7 +58,7 @@ Voici également les formules de dégâts:
 `dmg_taken = (dmg_dealt - dmg_mitigation) * low_sp`
 
 - base_power : Vient des attaques
-- bonus_power : Vient des artéfacts
+- bonus_power : Vient des équipements
 - crit_mult : Vient des attaques et/ou des artéfacts (généralement vaut 2.5)
 - low_mp : Vient du malus en cas de MP vide
 - dmg_mitigation : Vient des artéfacts
